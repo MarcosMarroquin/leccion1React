@@ -1,0 +1,55 @@
+.titulo{
+    background-color: aqua;
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
+}
+
+
+.titulo_btn_menos{
+    background-color: rgb(124, 134, 210);
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
+}
+
+.titulo_btn_mas{
+    background-color: rgb(236, 140, 140);
+    color: rgb(8, 8, 8);
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 21px;
+    text-align: center;
+    
+}
+
+.boton_mas{
+    background-color: rgb(254, 37, 8);
+    border: none;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 15px 32px;
+    margin: 8px;
+}
+
+.boton_menos{
+    background-color: rgb(27, 16, 224);
+    border: none;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 15px 32px;
+    margin: 8px;
+}
